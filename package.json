@@ -105,6 +105,7 @@
     "linux": {
       "category": "Audio;AudioVideo",
       "target": [
+        "snap",
         "AppImage",
         "deb"
       ]
